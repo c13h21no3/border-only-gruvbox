@@ -1,16 +1,16 @@
-#border-only-gruvbox
+# border-only-gruvbox
 
-##Mentions
+## Mentions
 
 This is a custom version of [border-only](https://www.xfce-look.org/p/1016214/) theme by Changaco.
 
-##Details
+## Details
 
 Gruvbox themed border-only xfwm4 theme.
 
 ---
 
-##Installation
+## Installation
 
 0. run this command
 
