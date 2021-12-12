@@ -1,0 +1,8 @@
+/* XPM */
+static char * bottom_active = {
+"1 2 2 1",
+"#	c #EBDBB2 ",
+"=	c #090909 s active_shadow_1",
+"#",
+"=",
+};
