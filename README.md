@@ -10,7 +10,7 @@ Gruvbox themed border-only xfwm4 theme.
 
 ---
 
-##Screenshots
+## Screenshots
 
 <img src='screenshot.png'>
 
