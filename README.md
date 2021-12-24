@@ -8,10 +8,11 @@ This is a custom version of [border-only](https://www.xfce-look.org/p/1016214/) 
 
 Gruvbox themed border-only xfwm4 theme.
 
+---
 
 ##Screenshots
 
-[screenshot](screenshot.png)
+<img src='screenshot.png'>
 
 ---
 
